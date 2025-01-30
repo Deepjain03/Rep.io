@@ -5,7 +5,7 @@ Description:
 
 Welcome to the Push-Up Counter with Mediapipe repository! This Git repository houses the source code for our innovative fitness application that utilizes the power of Mediapipe's pose detection technology to accurately count push-up repetitions and monitor exercise performance.
 
-Key Features:
+## Key Features:
 
 Mediapipe Integration: Our application seamlessly integrates with Mediapipe, a state-of-the-art pose detection framework, to analyze users' push-up movements with precision.
 
